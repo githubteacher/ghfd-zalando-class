@@ -1,4 +1,4 @@
-#Siva at GitHub training 
+#Siva at GitHub training
 
 ##GitHub Flow
 -Issues
@@ -10,3 +10,9 @@
 _Let us start!!!_
 
 Let me Change your comment
+
+#Command line hands on
+##commands learned
+*git clone*
+*git commit -m "abcd"*
+*git push*
