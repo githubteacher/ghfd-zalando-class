@@ -6,4 +6,4 @@ Hi. My name is Matthias Wiesen.
 
 Here is a picture of me:
 
-[](https://github.com/mwiesen)
+![](https://github.com/mwiesen.png)
