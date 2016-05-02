@@ -7,4 +7,4 @@ A generalist that likes pina coladas and dancing in the rain. Except the rain pa
 ## TODOs for today:
 - [x] Have coffee
 - [ ] Attend GitHub for Developers training
-- [ ] Have more coffe
+- [ ] Have more coffee
