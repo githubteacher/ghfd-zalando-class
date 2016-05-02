@@ -2,5 +2,5 @@
 
 ```javascript
 
-alert('Hello Github');
+alert('Hello Github!');
 ```
