@@ -3,4 +3,5 @@ function dumbFunc() {
 }
 
 dumbFunc();
+dumbFunc();
 dumbFunc(); 
