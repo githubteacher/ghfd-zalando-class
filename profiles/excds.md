@@ -11,6 +11,9 @@
 - Fronline Assembly
 - Decoded Feedback
 
+# Comics
+- [xkcd](http://xkcd.com)
+
 ## TODOs
 - [ ] Get coffee
 - [ ] Add pull request
