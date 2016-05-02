@@ -6,3 +6,6 @@
 - bla1
 - bla2
 - bla3
+<<<<<<< HEAD
+- new bla4
+- and even more bla
