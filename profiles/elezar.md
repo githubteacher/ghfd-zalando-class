@@ -9,5 +9,8 @@ The quick brown fox jumps over the lazy dog.
 ## TODOs for today:
 - [x] Have coffee
 - [ ] Attend GitHub for Developers training
+- [x] Lunch
+    - [x] Dolores
+    - [ ] King King   
 - [x] Have more coffee
 - [ ] We're going to need even more coffee
