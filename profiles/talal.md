@@ -4,4 +4,4 @@
 
 ## Sports
 - Football
-- Cricker
+- Cricket
