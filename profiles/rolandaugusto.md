@@ -1,4 +1,4 @@
-#Roland Augusto
+#Roland Castillo
 
 _Frontend dev @ Zalando SE_
 
@@ -7,4 +7,7 @@ _Frontend dev @ Zalando SE_
 ## Hobbies
 - E-Guitar
 - Travelling
-- Whisky 
+- Whisky
+
+### TODOs 
+[] add some more TODOs
